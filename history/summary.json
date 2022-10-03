@@ -2,7 +2,7 @@
   {
     "name": "Microservicio Firma Digital",
     "url": "$IDENTITY_VALIDATOR_MICROSERVICE_HEALTHCHECK",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservicio-firma-digital",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 130,
-    "timeWeek": 153,
-    "timeMonth": 133,
+    "timeDay": 133,
+    "timeWeek": 149,
+    "timeMonth": 136,
     "timeYear": 149,
     "dailyMinutesDown": {}
   }
