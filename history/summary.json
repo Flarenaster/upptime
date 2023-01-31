@@ -4,7 +4,7 @@
     "url": "$IDENTITY_VALIDATOR_MICROSERVICE_HEALTHCHECK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microservicio-firma-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 143,
     "timeMonth": 136,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   }
 ]
